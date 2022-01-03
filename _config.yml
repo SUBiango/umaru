@@ -21,8 +21,8 @@ url:                 https://blog.subdesigne.com
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'U.S BIANGO'
-description:	       'Freelance web designer'
+title:		           'Umaru's Blog'
+description:	       'Life & web development'
 author:              'Umaru Biango'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
